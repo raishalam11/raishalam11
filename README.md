@@ -1,7 +1,5 @@
 # Hi 👋, I'm Raish  
 
-A passionate Data Analyst
-
 🚀 Data Analyst | Power BI | Python | MySQL | Excel 
 
 I’m passionate about turning raw data into meaningful insights and dashboards.  
@@ -12,9 +10,9 @@ I’m passionate about turning raw data into meaningful insights and dashboards.
 - 💡 Love solving data problems  
 
 ## 🛠 Skills  
-- **Tools:** Power BI, Excel, Power Query  
-- **Languages:** SQL, DAX, Python
-- **Concepts:** Data Modeling, ETL, Reporting, Visualization  
+- **Tools:** Power BI, Advanced Excel, Power Query  
+- **Languages:** MySQL, DAX, Python
+- **Concepts:** Data Modeling, ETL, Reporting, Visualization
 
 ## 📈 GitHub Stats  
 ![Raish's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
