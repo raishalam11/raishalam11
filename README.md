@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raish</h1>
 <h3 align="center">📊 Data Analyst | Power BI | MySQL | Python | Advanced Excel </h3>
 
-<h4 align="center">🚀 I’m passionate about turning raw data into meaningful insights and dashboards.  </h4>
+<h4 align="center">🚀 I’m passionate about turning raw data into meaningful insights and dashboards. </h4>
 
 ## 🧑‍💻 About Me  
 - 🔍 Interested in Data Analysis & Business Intelligence  
