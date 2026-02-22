@@ -11,7 +11,7 @@ I’m passionate about turning raw data into meaningful insights and dashboards.
 
 ## 🛠 Skills  
 - **Tools:** Power BI, Advanced Excel, Power Query  
-- **Languages:** MySQL, DAX, Python
+- **Languages:** Python, MySQL, DAX
 - **Concepts:** Data Modeling, ETL, Reporting, Visualization
 
 ## 📈 GitHub Stats  
