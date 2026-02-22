@@ -24,6 +24,7 @@
   <a href="https://www.linkedin.com/in/raishalam11" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+  <span>&nbsp; </span>
   <a href="mailto:raishalam11@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="40" height="40"/>
   </a>
@@ -32,13 +33,13 @@
 ## ⚙️ Tools and Technologies I Utilize
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /></a>
-  <span>&nbsp;&nbsp;</span>
+  <span>&nbsp; </span>
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/power-bi.png" width="40" /></a>
-  <span>&nbsp;&nbsp;</span>
+  <span>&nbsp; </span>
   <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" /></a>
-  <span>&nbsp;&nbsp; </span>
+  <span>&nbsp; </span>
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /></a>
-  <span>&nbsp;&nbsp;</span>
+  <span>&nbsp;</span>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" /></a>
 </p>
 
