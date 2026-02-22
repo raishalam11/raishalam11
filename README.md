@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Raish  
 
-<!--
-**raishalam11/raishalam11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Data Analyst
 
-Here are some ideas to get you started:
+🚀 Data Analyst | Power BI | Python | MySQL | Excel 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about turning raw data into meaningful insights and dashboards.  
+
+---
+
+## 🧑‍💻 About Me  
+- 🔍 Interested in Data Analysis & Business Intelligence  
+- 📊 Working on Power BI dashboards & real-world projects  
+- 💡 Love solving data problems  
+
+---
+
+## 🛠 Skills  
+- **Tools:** Power BI, Excel, Power Query  
+- **Languages:** SQL, DAX, Python
+- **Concepts:** Data Modeling, ETL, Reporting, Visualization  
+
+---
+
+## 📈 GitHub Stats  
+![Raish's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+
+---
+
+## 🔗 Connect With Me  
+- 💼 LinkedIn: https://www.linkedin.com/in/raishalam  
+- 📧 Email: raishalam11@gmail.com  
+
+---
+
+⭐ Feel free to explore my repositories and projects!
