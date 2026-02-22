@@ -1,6 +1,6 @@
 # Hi 👋, I'm Raish  
 
-🚀 Data Analyst | Power BI | Python | MySQL | Excel 
+🚀 Data Analyst | Power BI | MySQL | Python | Excel
 
 I’m passionate about turning raw data into meaningful insights and dashboards.  
 
