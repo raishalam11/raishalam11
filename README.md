@@ -18,7 +18,15 @@
 
 ## 🔗 Connect With Me  
 - 💼 LinkedIn: https://www.linkedin.com/in/raishalam11 
-- 📧 Email: raishalam11@gmail.com  
+- 📧 Email: raishalam11@gmail.com
+- <p align="left">
+  <a href="https://www.linkedin.com/in/raishalam11" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="mailto:raishalam11@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="40" height="40"/>
+  </a>
+</p>
 
 ## ⚙️ Tools and Technologies I Utilize
 <p align="left">
