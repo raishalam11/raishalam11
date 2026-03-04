@@ -18,16 +18,6 @@
 - **Languages:** Python, MySQL, DAX
 - **Concepts:** Data Modeling, ETL, Reporting, Visualization
 
-## 📈 GitHub Stats  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raishalam11&" alt="rajvardhansinghparmar" /></p>
-
-## 🔗 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/raishalam11" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" /></a><!--
-  --><span>&nbsp;&nbsp;&nbsp;</span><!--
-  --><a href="mailto:raishalam11@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="40" height="40" /></a>
-</p>
-
 ## ⚙️ Tools and Technologies I Utilize
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /></a>
@@ -40,5 +30,15 @@
   <span>&nbsp;</span>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" /></a>
 </p>
+
+## 🔗 Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/raishalam11" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" /></a><!--
+  --><span>&nbsp;&nbsp;&nbsp;</span><!--
+  --><a href="mailto:raishalam11@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="40" height="40" /></a>
+</p>
+
+## 📈 GitHub Stats  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raishalam11&" alt="rajvardhansinghparmar" /></p>
 
 ⭐ Feel free to explore my repositories and projects!
