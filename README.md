@@ -41,4 +41,4 @@
 ## 📈 GitHub Stats  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raishalam11&" alt="rajvardhansinghparmar" /></p>
 
-⭐ Feel free to explore my repositories and projects!
+⭐ Feel free to explore my repositories and projects, Thank you!
